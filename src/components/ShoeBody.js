@@ -66,7 +66,6 @@ const LeftColumn = styled.div`
 `;
 
 const MainColumn = styled.div`
-    border: 1px solid purple;
     flex: 1;
 `;
 
@@ -74,7 +73,6 @@ const Header = styled.header`
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    border: 1px solid red;
 `;
 
 const Title = styled.h2`

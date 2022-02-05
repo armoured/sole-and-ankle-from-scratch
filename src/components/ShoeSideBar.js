@@ -69,7 +69,6 @@ const ShoeSideBar = () => {
 }
 
 const Wrapper = styled.aside`
-    border: 1px solid green;
     margin-top: 32px;
     display: flex;
     flex-direction: column;
